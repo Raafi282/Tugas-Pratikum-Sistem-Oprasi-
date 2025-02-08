@@ -1,6 +1,8 @@
 # Tugas-Pratikum-Sistem-Oprasi-
 Tugas Sistem Oprasi | 
-
+Nama : Muhammad Raafi Rizqirasyah
+NIM  : 09030282428046
+Kelas: TK2A
 'Kegiatan Pratikum (Ubuntu Command)
 --------------------------------------------------------------------------------
 1. ls - Menampilkan daftar file dan direktori di direktori saat ini.
